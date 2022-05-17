@@ -1,0 +1,15 @@
+
+div {
+    margin-left: 200px;
+    color: white;
+  
+  }
+
+body {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0YgPCa0C6cBysuo6MHE1YPm2Zr0FNWGsBMw&usqp=CAU");
+    background-color: #cccccc;
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+    background-size: cover;
+    
+   }
